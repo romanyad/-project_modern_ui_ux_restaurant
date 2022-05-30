@@ -1,4 +1,4 @@
-
+![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
 ## Introduction
 In this Repo, we build a Modern UI/UX Restaurant Landing Page Website
